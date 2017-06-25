@@ -6,7 +6,7 @@ import java.util.*;
 import javax.servlet.*;
 import javax.servlet.annotation.*;
 import javax.servlet.http.*;
-
+// Hier ein Test Kommentar
 @WebServlet(urlPatterns="*.debug")
 public class SnoopServlet extends HttpServlet {
 
