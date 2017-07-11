@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+	<!-- <alternatives>
+		<class>de.fom.wp.dao.JpaPersonDao</class>
+	</alternatives> -->
+	<!-- <alternatives>
+	<class>de.fom.wp.dao.JdbcPersonDao</class>
+	</alternatives> -->
+	<alternatives>
+	<class>de.fom.wp.dao.JpaPersonDao</class>
+	</alternatives>
+</beans>
